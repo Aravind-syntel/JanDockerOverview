@@ -4,5 +4,3 @@ pune
 mumbai
 delhi
 chennai
-kolkata
-guwahati
